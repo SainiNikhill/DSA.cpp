@@ -1,0 +1,7 @@
+datatypes specify the type of data variables contain
+data comes in different types
+integers
+floats
+strings
+boolean
+so memory is allocated on the basis of  data types.so the amount of memory required is depends on the datra type
