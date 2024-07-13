@@ -16,7 +16,7 @@ char  tolowerCase(char cho){
 
 
 
-//chek palindrome;
+//check palindrome;
 bool checkPalindrome(char ch[], int n){
     int start=0;
     int end=n-1;
